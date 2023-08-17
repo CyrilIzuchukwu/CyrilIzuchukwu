@@ -1,7 +1,7 @@
 ### Hi there, how can i be of help to you ?? 👋
 
 # 💫 About Me:
-🔭 I’m cyril and I'm a full-stack web developer,  I love helping others with their projects, I use technology as a means to help others with their problems and also create lasting solutions to those problems using seamless cutting edge technologies <br>👯 I’m looking to collaborate with you on your projects and i also aim to help you build quality projects for your satisfaction and also to your users <br>🤝 I look forward in helping you with your projects and also bring your ideas to light , also to tackle any future problem or challenges<br>🌱 I’m currently learning and growing my tech stacks<br>💬 Ask me about anything related to web development and i will reach out to you with a solution<br>⚡ Fun fact: I'm a hard worker and extremely talented indiviual
+🔭 Hello👋 My name is Cyril Izuchukwu and I'm a Full-stack web developer,  I love helping others with their projects, I use technology as a means to help others with their problems and also create lasting solutions to those problems using seamless cutting edge technologies <br>👯 I’m looking to collaborate with you on your projects and i also aim to help you build quality projects for your satisfaction <br>🤝 I look forward in helping you with your projects, bringing your ideas to light , also to tackle any future problem or challenges<br>🌱 I’m currently learning and growing my tech stacks<br>💬 Ask me about anything related to web development and i will reach out to you with a solution<br>⚡ Fun fact: I'm hardworking and extremely talented a indiviual
 
 
 ## 🌐 Socials:
